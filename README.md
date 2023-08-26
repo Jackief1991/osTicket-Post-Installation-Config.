@@ -31,7 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EKuSaez.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 Configure Roles
@@ -44,7 +44,7 @@ Configure Roles
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ARcf16i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 Configure Teams
@@ -55,7 +55,7 @@ Configure Teams
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QhGl7ol.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 Allow anyone to create tickets
@@ -64,7 +64,7 @@ Allow anyone to create tickets
 
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/w2CyQ2n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 - Configure Agents (workers)
@@ -79,7 +79,7 @@ Allow anyone to create tickets
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SCkhEvA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 Configure SLA
